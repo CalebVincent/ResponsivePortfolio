@@ -1,74 +1,24 @@
 # ResponsivePortfolio
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+[Link to deployed site](https://calebvincent.github.io/ResponsivePortfolio/)
 
+![About Me](https://drive.google.com/open?id=1nQy-baplJOshaaSu3fGEoqYhDQXRf7il)
 
-## Directions
+![Contact](https://drive.google.com/open?id=1HgVmnI9dGBcG3r-5lH86FgljhCwDFS9-)
 
-First, you will use the Bootstrap CSS Framework to recreate your portfolio. How do you deliver this? Here are some guidelines:
+This is a simple portfolio equipped with HTML/CSS that responds to the size of the display being used.
 
-* Create the following pages: `index.html`, `portfolio.html` and `contact.html`.
+# Getting Started 
 
-* Using Bootstrap, recreate your portfolio site with the following items:
+Depending on what file you run at first, a specific body will be produced, all with a matching navigation bar at the top. The navigation bar contains my name along with a link to the portfolio page, the contact page, and an about page as well.
 
-   * A navbar
+The contact page has a field for user to input their Name, followed by Email, Message, and lastly a submit button. The About Me page contains an image along with 2 paragraphs of personal information. The Portfolio page has 6 pictures depicting hobbies + projects
 
-   * A responsive layout
+# Built With
 
-   * Responsive images
+HTML / CSS
 
-* The Bootstrap portfolio should minimize the use of media queries.
+# User Story
 
+As a web developer, I want to showcase my work and information about me so that I may share to potential employers.
 
-### Hints
-
-* Use Bootstrap's grid system (containers, rows, and columns).
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
-
-### Minimum Requirements
-
-* Functional, deployed application
-
-* GitHub repository with README describing the project
-
-
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
-
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
